@@ -1,0 +1,31 @@
+/* style.css */
+
+/* Example styles for index.html */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    color: #ee7c7c;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    background: #300d0d;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(196, 30, 30, 0.08);
+    padding: 32px;
+}
+
+h2 {
+    color: #2904fc;
+    margin-bottom: 24px;
+}
+
+.date-time {
+    font-size: 1.5rem;
+    color: #e60909;
+    margin-top: 16px;
+}
